@@ -1,0 +1,20 @@
+{
+  "name": "FinLedger — Учёт финансов",
+  "short_name": "FinLedger",
+  "description": "Приложение для учёта доходов и расходов с аналитикой и рекомендациями",
+  "start_url": "/",
+  "scope": "/",
+  "id": "finledger-app",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "theme_color": "#0a0a14",
+  "background_color": "#0a0a14",
+  "categories": ["finance"],
+  "lang": "ru",
+  "prefer_related_applications": false,
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
