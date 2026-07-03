@@ -1,4 +1,4 @@
-const CACHE = 'finledger-v2';
+const CACHE = 'finledger-v3';
 const ASSETS = [
   '/',
   '/index.html',
